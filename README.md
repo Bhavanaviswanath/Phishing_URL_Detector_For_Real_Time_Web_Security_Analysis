@@ -47,13 +47,15 @@ If any red flags are found, a phishing warning is displayed.
 
 ---
 
-## 🖼️ Sample outputs
+### 🖼️ Sample Output 1
+![Sample Output 1](https://github.com/Bhavanaviswanath/Phishing_URL_Detector_For_Real_Time_Web_Security_Analysis/blob/bcaf4fd8610848fb14070db923399bb814b6f73a/Sample%20output1.jpeg?raw=true)
 
-![image](https://github.com/GudepuRakshitha/A-Phishing-URL-Detection-System-Using-Machine-Learning-for-Real-Time-Web-Security-Analysis-/blob/6656d6a3f9cea9dd835bf9c7d34338346a8c8d8c/WhatsApp%20Image%202025-05-22%20at%2014.57.05_b5c3db1f.jpg)
+### 🖼️ Sample Output 2
+![Sample Output 2](https://github.com/Bhavanaviswanath/Phishing_URL_Detector_For_Real_Time_Web_Security_Analysis/blob/bcaf4fd8610848fb14070db923399bb814b6f73a/Sample%20output2.jpeg?raw=true)
 
-![image](https://github.com/GudepuRakshitha/A-Phishing-URL-Detection-System-Using-Machine-Learning-for-Real-Time-Web-Security-Analysis-/blob/6656d6a3f9cea9dd835bf9c7d34338346a8c8d8c/WhatsApp%20Image%202025-05-22%20at%2014.57.06_094eb75e.jpg)
+### 🖼️ Sample Output 3
+![Sample Output 3](https://github.com/Bhavanaviswanath/Phishing_URL_Detector_For_Real_Time_Web_Security_Analysis/blob/bcaf4fd8610848fb14070db923399bb814b6f73a/Sample%20output3.jpeg?raw=true)
 
-![image](https://github.com/GudepuRakshitha/A-Phishing-URL-Detection-System-Using-Machine-Learning-for-Real-Time-Web-Security-Analysis-/blob/6656d6a3f9cea9dd835bf9c7d34338346a8c8d8c/WhatsApp%20Image%202025-05-22%20at%2014.57.06_d3c4629e.jpg)
 
 ---
 
