@@ -76,9 +76,9 @@ If any red flags are found, a phishing warning is displayed.
 
 ## 👩‍💻 Author
 
-**Gudepu Rakshitha Reddy**  
-📧 rakshithareddy1985@gmail.com   
-🔗 [Hugging Face Profile](https://huggingface.co/GudepuRakshithaReddy)
+**Natuva Bhavana**  
+📧 natuvabhavana@gmail.com   
+🔗 [Hugging Face Profile](https://huggingface.co/Bhavvanna)
 
 ---
 
